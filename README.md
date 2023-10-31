@@ -14,8 +14,10 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Móveis customizados" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Móveis customizados" src=".github/preview.jpg" width="70%">
 </p>
+
+<br>
 
 ## 🚀 Tecnologias
 
