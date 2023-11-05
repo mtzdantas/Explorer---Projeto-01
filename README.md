@@ -33,7 +33,7 @@ Página de apresentação para uma empresa de móveis customizados.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/qLObyEg7VbqlfPJxncWHQV/Explorer-Projeto-01-Copy?fuid=1286420659392468376).
+Você pode visualizar o layout do projeto através desse [link](https://www.figma.com/file/qLObyEg7VbqlfPJxncWHQV/Explorer-Projeto-01-Copy?fuid=1286420659392468376).
 
 ## :memo: Licença
 
